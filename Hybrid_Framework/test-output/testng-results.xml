@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18084" started-at="2021-04-04T11:31:57Z" finished-at="2021-04-04T11:32:15Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="18084" started-at="2021-04-04T11:31:57Z" finished-at="2021-04-04T11:32:15Z">
+      <class name="com.leafBot.testcases.TC008_ServiceNowLogin">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="startReport" is-config="true" duration-ms="207" started-at="2021-04-04T11:31:57Z" finished-at="2021-04-04T11:31:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setValues()[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="setValues" is-config="true" duration-ms="0" started-at="2021-04-04T11:31:57Z" finished-at="2021-04-04T11:31:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="setUpClass" is-config="true" duration-ms="83" started-at="2021-04-04T11:31:57Z" finished-at="2021-04-04T11:31:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="report()[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="report" is-config="true" duration-ms="5" started-at="2021-04-04T11:31:57Z" finished-at="2021-04-04T11:31:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="beforeMethod" is-config="true" duration-ms="14064" started-at="2021-04-04T11:31:57Z" finished-at="2021-04-04T11:32:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ExecuteTC()[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="ExecuteTC" duration-ms="3731" started-at="2021-04-04T11:32:12Z" finished-at="2021-04-04T11:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExecuteTC -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="afterMethod" is-config="true" duration-ms="169" started-at="2021-04-04T11:32:15Z" finished-at="2021-04-04T11:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="tearDownClass" is-config="true" duration-ms="4" started-at="2021-04-04T11:32:15Z" finished-at="2021-04-04T11:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="stopReport()[pri:0, instance:com.leafBot.testcases.TC008_ServiceNowLogin@1a04f701]" name="stopReport" is-config="true" duration-ms="264" started-at="2021-04-04T11:32:15Z" finished-at="2021-04-04T11:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopReport -->
+      </class> <!-- com.leafBot.testcases.TC008_ServiceNowLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
